@@ -3,7 +3,7 @@ package aggregate_test
 import (
 	"testing"
 
-	"github.com/percybolmer/ddd-go/aggregate"
+	"github.com/silva4dev/golang-clean-ddd-project/aggregate"
 )
 
 func TestProduct_NewProduct(t *testing.T) {

@@ -6,12 +6,12 @@ import (
 	"log"
 
 	"github.com/google/uuid"
-	"github.com/percybolmer/ddd-go/aggregate"
-	"github.com/percybolmer/ddd-go/domain/customer"
-	"github.com/percybolmer/ddd-go/domain/customer/memory"
-	"github.com/percybolmer/ddd-go/domain/customer/mongo"
-	"github.com/percybolmer/ddd-go/domain/product"
-	prodmemory "github.com/percybolmer/ddd-go/domain/product/memory"
+	"github.com/silva4dev/golang-clean-ddd-project/aggregate"
+	"github.com/silva4dev/golang-clean-ddd-project/domain/customer"
+	"github.com/silva4dev/golang-clean-ddd-project/domain/customer/memory"
+	"github.com/silva4dev/golang-clean-ddd-project/domain/customer/mongo"
+	"github.com/silva4dev/golang-clean-ddd-project/domain/product"
+	prodmemory "github.com/silva4dev/golang-clean-ddd-project/domain/product/memory"
 )
 
 // OrderConfiguration is an alias for a function that will take in a pointer to an OrderService and modify it

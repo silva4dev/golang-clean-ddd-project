@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/google/uuid"
-	"github.com/percybolmer/ddd-go/aggregate"
+	"github.com/silva4dev/golang-clean-ddd-project/aggregate"
 )
 
 func Test_MongoTavern(t *testing.T) {

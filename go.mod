@@ -1,4 +1,4 @@
-module github.com/percybolmer/ddd-go
+module github.com/silva4dev/golang-clean-ddd-project
 
 go 1.17
 

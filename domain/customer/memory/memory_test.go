@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	"github.com/google/uuid"
-	"github.com/percybolmer/ddd-go/aggregate"
-	"github.com/percybolmer/ddd-go/domain/customer"
+	"github.com/silva4dev/golang-clean-ddd-project/aggregate"
+	"github.com/silva4dev/golang-clean-ddd-project/domain/customer"
 )
 
 func TestMemory_GetCustomer(t *testing.T) {

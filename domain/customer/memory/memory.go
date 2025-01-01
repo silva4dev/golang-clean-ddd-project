@@ -6,8 +6,8 @@ import (
 	"sync"
 
 	"github.com/google/uuid"
-	"github.com/percybolmer/ddd-go/aggregate"
-	"github.com/percybolmer/ddd-go/domain/customer"
+	"github.com/silva4dev/golang-clean-ddd-project/aggregate"
+	"github.com/silva4dev/golang-clean-ddd-project/domain/customer"
 )
 
 // MemoryRepository fulfills the CustomerRepository interface

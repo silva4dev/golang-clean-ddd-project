@@ -7,7 +7,7 @@ import (
 	"errors"
 
 	"github.com/google/uuid"
-	"github.com/percybolmer/ddd-go/entity"
+	"github.com/silva4dev/golang-clean-ddd-project/entity"
 )
 
 var (
